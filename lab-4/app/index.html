@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>My awesome app</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- сторонние стили -->
+    <link href="./vendors/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- свои стили -->
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-12">
+          <h1>Clients list</h1>
+          <table id="clientsGrid" class="table">
+            <!-- здесь будут выводится данные с помощью js -->
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-6">
+          <h1>Add new client</h1>
+          <!-- форма может отправлять данные на сервер и без помощи js -->
+          <!-- но в данном примере все равно используется js -->
+          <form
+            id="addClientForm"
+            method="POST"
+            action="http://localhost:3017/api/clients"
+            enctype="multipart/form-data"
+          >
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Id</label>
+              <div class="col-sm-9">
+                <input name="id" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">First name</label>
+              <div class="col-sm-9">
+                <input name="first_name" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Last name</label>
+              <div class="col-sm-9">
+                <input name="last_name" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Gender</label>
+              <div class="col-sm-9">
+                <input name="gender" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Date of birth</label>
+              <div class="col-sm-9">
+                <input name="date_of_birth" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Address</label>
+              <div class="col-sm-9">
+                <input name="address" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Phone</label>
+              <div class="col-sm-9">
+                <input name="phone" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Email</label>
+              <div class="col-sm-9">
+                <input name="email" type="email" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group">
+              <button type="submit" class="btn btn-success float-right">
+                Add
+              </button>
+            </div>
+          </form>
+        </div>
+
+        <div class="col-sm-6">
+          <h1>Edit client</h1>
+          <form id="editClientForm">
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Id</label>
+              <div class="col-sm-9">
+                <input name="id" type="text" class="form-control" disabled />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">First name</label>
+              <div class="col-sm-9">
+                <input name="first_name" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Last name</label>
+              <div class="col-sm-9">
+                <input name="last_name" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Gender</label>
+              <div class="col-sm-9">
+                <input name="gender" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Date of birth</label>
+              <div class="col-sm-9">
+                <input name="date_of_birth" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Address</label>
+              <div class="col-sm-9">
+                <input name="address" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Phone</label>
+              <div class="col-sm-9">
+                <input name="phone" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group row">
+              <label class="col-sm-3 col-form-label">Email</label>
+              <div class="col-sm-9">
+                <input name="email" type="text" class="form-control" />
+              </div>
+            </div>
+            <div class="form-group">
+              <button type="submit" class="btn btn-warning float-right">
+                Edit
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <!-- сторонние скрипты -->
+    <script src="./vendors/jquery/jquery-3.4.1.min.js"></script>
+    <script src="./vendors/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- свои скрипты -->
+    <script src="./dist/app.bundle.js"></script>
+  </body>
+</html>

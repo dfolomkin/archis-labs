@@ -1,0 +1,62 @@
+[
+  {
+    "client_id": 1,
+    "product_id": 4,
+    "count": 90,
+    "sell_date": "9/30/2019"
+  },
+  {
+    "client_id": 4,
+    "product_id": 9,
+    "count": 70,
+    "sell_date": "4/30/2019"
+  },
+  {
+    "client_id": 6,
+    "product_id": 11,
+    "count": 20,
+    "sell_date": "6/15/2019"
+  },
+  {
+    "client_id": 5,
+    "product_id": 9,
+    "count": 60,
+    "sell_date": "6/16/2020"
+  },
+  {
+    "client_id": 8,
+    "product_id": 8,
+    "count": 80,
+    "sell_date": "2/5/2020"
+  },
+  {
+    "client_id": 20,
+    "product_id": 16,
+    "count": 30,
+    "sell_date": "4/21/2019"
+  },
+  {
+    "client_id": 3,
+    "product_id": 14,
+    "count": 60,
+    "sell_date": "1/6/2020"
+  },
+  {
+    "client_id": 11,
+    "product_id": 9,
+    "count": 90,
+    "sell_date": "1/28/2020"
+  },
+  {
+    "client_id": 17,
+    "product_id": 13,
+    "count": 50,
+    "sell_date": "5/17/2020"
+  },
+  {
+    "client_id": 1,
+    "product_id": 17,
+    "count": 10,
+    "sell_date": "1/2/2019"
+  }
+]

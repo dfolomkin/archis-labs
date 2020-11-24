@@ -1,0 +1,21 @@
+{
+  "name": "mongo-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "native:connect": "node ./native/connect",
+    "native:insert": "node ./native/insert",
+    "native:find-all": "node ./native/find-all",
+    "native:find-by-query": "node ./native/find-by-query",
+    "native:update": "node ./native/update",
+    "native:remove": "node ./native/remove",
+    "odm:connect": "node ./odm/connect"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.6.2",
+    "mongoose": "^5.10.6"
+  }
+}

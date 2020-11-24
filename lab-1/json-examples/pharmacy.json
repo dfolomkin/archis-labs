@@ -1,0 +1,47 @@
+{
+  "medicament": [
+    {
+      "id": "101",
+      "name": "Аскорбиновая кислота",
+      "description": "Аскорбиновая кислота",
+      "categoryId": 1
+    },
+    {
+      "id": "102",
+      "name": "Аевит",
+      "description": "Аевит",
+      "categoryId": 1
+    }
+  ],
+  "manufacturer": [
+    {
+      "id": "201",
+      "name": "Abbott Laboratories",
+      "address": "USA"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Витамины"
+    },
+    {
+      "id": "2",
+      "name": "Анестетики"
+    }
+  ],
+  "storage": [
+    {
+      "medicamentId": 101,
+      "manufacturerId": 201,
+      "expireDate": "10/20/2022",
+      "quantity": 1000
+    },
+    {
+      "medicamentId": 102,
+      "manufacturerId": 201,
+      "expireDate": "9/10/2021",
+      "quantity": 500
+    }
+  ]
+}

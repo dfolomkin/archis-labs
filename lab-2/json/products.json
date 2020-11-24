@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Academy Sports Outdoors SUNSCREEN CONTINUOUS SPORT BROAD SPECTRUM SPF 50 Water-Resistant",
+    "description": "https://adobe.com/libero/non/mattis/pulvinar.html",
+    "manufacturer": "Equifax, Inc.",
+    "price": 1000,
+    "release_date": "8/5/2018",
+    "expiration_date": "2/4/2021"
+  },
+  {
+    "id": 2,
+    "title": "Ibuprofen",
+    "description": "https://google.nl/nulla/facilisi/cras.json",
+    "manufacturer": "Eaton Vance Risk-Managed Diversified Equity Income Fund",
+    "price": 6900,
+    "release_date": "9/19/2019",
+    "expiration_date": "11/14/2021"
+  },
+  {
+    "id": 3,
+    "title": "Prednisone",
+    "description": "https://slideshare.net/non.xml",
+    "manufacturer": "CapStar Financial Holdings, Inc.",
+    "price": 3400,
+    "release_date": "1/29/2019",
+    "expiration_date": "7/1/2021"
+  },
+  {
+    "id": 4,
+    "title": "Ibuprofen",
+    "description": "https://columbia.edu/libero/nullam/sit/amet/turpis.jpg",
+    "manufacturer": "Virtu Financial, Inc.",
+    "price": 5000,
+    "release_date": "4/18/2018",
+    "expiration_date": "2/6/2023"
+  },
+  {
+    "id": 5,
+    "title": "Colirio Ocusan",
+    "description": "http://booking.com/in/felis/donec/semper.json",
+    "manufacturer": "Adverum Biotechnologies, Inc.",
+    "price": 4900,
+    "release_date": "3/4/2018",
+    "expiration_date": "9/24/2023"
+  },
+  {
+    "id": 6,
+    "title": "Amoxicillin and Clavulanate Potassium",
+    "description": "http://unc.edu/penatibus/et/magnis.aspx",
+    "manufacturer": "PIMCO Income Strategy Fund II",
+    "price": 3800,
+    "release_date": "5/26/2019",
+    "expiration_date": "11/24/2021"
+  },
+  {
+    "id": 7,
+    "title": "Ziprasidone Hydrochloride",
+    "description": "https://delicious.com/sit/amet/cursus/id/turpis/integer.jpg",
+    "manufacturer": "German American Bancorp, Inc.",
+    "price": 3800,
+    "release_date": "10/29/2018",
+    "expiration_date": "5/23/2021"
+  },
+  {
+    "id": 8,
+    "title": "CLARINS Broad Spectrum SPF 15 Everlasting Foundation Tint 107",
+    "description": "http://tumblr.com/id/nisl/venenatis/lacinia.js",
+    "manufacturer": "Washington Federal, Inc.",
+    "price": 5300,
+    "release_date": "8/3/2019",
+    "expiration_date": "6/7/2021"
+  },
+  {
+    "id": 9,
+    "title": "CPD/ADSOL Red Cell Preservation Solution System (PL 2209)",
+    "description": "http://mysql.com/dolor/sit/amet/consectetuer.jsp",
+    "manufacturer": "PennyMac Financial Services, Inc.",
+    "price": 700,
+    "release_date": "8/28/2019",
+    "expiration_date": "3/3/2023"
+  },
+  {
+    "id": 10,
+    "title": "Ready Foundation",
+    "description": "http://facebook.com/ut/massa/volutpat/convallis/morbi/odio.aspx",
+    "manufacturer": "Tortoise Energy Independence Fund, Inc.",
+    "price": 3000,
+    "release_date": "2/10/2019",
+    "expiration_date": "8/13/2023"
+  },
+  {
+    "id": 11,
+    "title": "Multi Vitamin with Fluoride",
+    "description": "https://drupal.org/duis/consequat/dui/nec.jpg",
+    "manufacturer": "The Cushing MLP Total Return Fund",
+    "price": 1900,
+    "release_date": "4/9/2019",
+    "expiration_date": "4/7/2022"
+  },
+  {
+    "id": 12,
+    "title": "Instant Hand Sanitizer",
+    "description": "https://google.co.jp/lacus.jsp",
+    "manufacturer": "ObsEva SA",
+    "price": 2900,
+    "release_date": "8/21/2018",
+    "expiration_date": "8/27/2021"
+  },
+  {
+    "id": 13,
+    "title": "Hydrocodone Bitartrate and Acetaminophen",
+    "description": "http://wikipedia.org/odio/in/hac/habitasse/platea/dictumst.aspx",
+    "manufacturer": "Intellipharmaceutics International Inc.",
+    "price": 800,
+    "release_date": "10/31/2019",
+    "expiration_date": "6/16/2022"
+  },
+  {
+    "id": 14,
+    "title": "Fenofibric Acid",
+    "description": "http://barnesandnoble.com/eu/interdum/eu/tincidunt.js",
+    "manufacturer": "Capital One Financial Corporation",
+    "price": 5400,
+    "release_date": "12/25/2019",
+    "expiration_date": "8/13/2022"
+  },
+  {
+    "id": 15,
+    "title": "Valacyclovir Hydrochloride",
+    "description": "http://symantec.com/venenatis/lacinia.png",
+    "manufacturer": "Energous Corporation",
+    "price": 5400,
+    "release_date": "6/6/2018",
+    "expiration_date": "8/29/2021"
+  },
+  {
+    "id": 16,
+    "title": "Cefepime",
+    "description": "https://google.com.au/platea/dictumst/maecenas.json",
+    "manufacturer": "Bioblast Pharma Ltd.",
+    "price": 5100,
+    "release_date": "8/9/2019",
+    "expiration_date": "3/8/2022"
+  },
+  {
+    "id": 17,
+    "title": "Zosyn",
+    "description": "https://paypal.com/imperdiet/sapien/urna.aspx",
+    "manufacturer": "Wells Fargo & Company",
+    "price": 2000,
+    "release_date": "3/30/2019",
+    "expiration_date": "4/11/2021"
+  },
+  {
+    "id": 18,
+    "title": "Levothyroxine sodium",
+    "description": "http://nymag.com/mus/vivamus.aspx",
+    "manufacturer": "Retrophin, Inc.",
+    "price": 900,
+    "release_date": "10/23/2019",
+    "expiration_date": "5/16/2022"
+  },
+  {
+    "id": 19,
+    "title": "Famotidine",
+    "description": "http://wix.com/lobortis/vel/dapibus/at/diam/nam.jsp",
+    "manufacturer": "BlackRock Municipal Income Trust",
+    "price": 10000,
+    "release_date": "11/5/2018",
+    "expiration_date": "8/28/2023"
+  },
+  {
+    "id": 20,
+    "title": "Oxymorphone hydrochloride",
+    "description": "https://merriam-webster.com/aliquam/augue.jsp",
+    "manufacturer": "Maiden Holdings, Ltd.",
+    "price": 6200,
+    "release_date": "6/25/2019",
+    "expiration_date": "5/6/2021"
+  }
+]

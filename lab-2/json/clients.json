@@ -1,0 +1,375 @@
+[
+  {
+    "id": 1,
+    "first_name": "Amie",
+    "last_name": "Scopham",
+    "gender": "Female",
+    "date_of_birth": "6/1/1932",
+    "address": "31643 Delaware Way",
+    "phone": "931-127-3417",
+    "email": "ascopham0@devhub.com",
+    "cards": [
+      "7576-6648-3900-5801",
+      "7576-6648-3900-5802"
+    ],
+    "discounts": {
+      "code": "Blue",
+      "description": "Blue discount program"
+    }
+  },
+  {
+    "id": 2,
+    "first_name": "Georgy",
+    "last_name": "Pershouse",
+    "gender": "Male",
+    "date_of_birth": "12/20/1965",
+    "address": "902 American Plaza",
+    "phone": "627-797-1277",
+    "email": "gpershouse1@ameblo.jp",
+    "cards": "1105-4799-8886-7483",
+    "discounts": {
+      "code": "Red",
+      "description": "Red discount program"
+    }
+  },
+  {
+    "id": 3,
+    "first_name": "Walt",
+    "last_name": "Geator",
+    "gender": "Male",
+    "date_of_birth": "7/30/1924",
+    "address": "2888 Pearson Circle",
+    "phone": "335-281-4868",
+    "email": "wgeator2@amazon.com",
+    "cards": [
+      "1920-6347-1972-7042",
+      "1920-6347-1972-7043"
+    ],
+    "discounts": [
+      {
+        "code": "Red",
+        "description": "Red discount program"
+      },
+      {
+        "code": "Green",
+        "description": "Green discount program"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "first_name": "Shayne",
+    "last_name": "Virgo",
+    "gender": "Male",
+    "date_of_birth": "12/4/1946",
+    "address": "08842 American Center",
+    "phone": "535-482-3292",
+    "email": "svirgo3@cpanel.net",
+    "cards": "2501-9283-8513-9161",
+    "discounts": {
+      "code": "Red",
+      "description": "Red discount program"
+    }
+  },
+  {
+    "id": 5,
+    "first_name": "Karia",
+    "last_name": "Jacobson",
+    "gender": "Female",
+    "date_of_birth": "4/15/1991",
+    "address": "9 Granby Hill",
+    "phone": "109-694-8185",
+    "email": "kjacobson4@admin.ch",
+    "cards": [
+      "8195-7127-4845-6108",
+      "8195-7127-4845-6109",
+      "8195-7127-4845-6110"
+    ],
+    "discounts": [
+      {
+        "code": "Red",
+        "description": "Red discount program"
+      },
+      {
+        "code": "Blue",
+        "description": "Blue discount program"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "first_name": "Dallas",
+    "last_name": "Skillen",
+    "gender": "Male",
+    "date_of_birth": "3/1/1940",
+    "address": "20 Sherman Court",
+    "phone": "498-272-5614",
+    "email": "dskillen5@plala.or.jp",
+    "cards": "0232-5011-2849-7621",
+    "discounts": [
+      {
+        "code": "Green",
+        "description": "Green discount program"
+      },
+      {
+        "code": "Blue",
+        "description": "Blue discount program"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "first_name": "Ambrosius",
+    "last_name": "Divis",
+    "gender": "Male",
+    "date_of_birth": "10/5/1946",
+    "address": "763 Graceland Plaza",
+    "phone": "973-279-1837",
+    "email": "adivis6@123-reg.co.uk",
+    "cards": "1748-8695-0653-4960",
+    "discounts": {
+      "code": "Blue",
+      "description": "Blue discount program"
+    }
+  },
+  {
+    "id": 8,
+    "first_name": "Devin",
+    "last_name": "Van der Brugge",
+    "gender": "Male",
+    "date_of_birth": "12/5/1971",
+    "address": "89 Grim Terrace",
+    "phone": "788-334-0887",
+    "email": "dvanderbrugge7@soundcloud.com",
+    "cards": "5713-7764-5640-5584",
+    "discounts": {
+      "code": "Green",
+      "description": "Yellow discount program"
+    }
+  },
+  {
+    "id": 9,
+    "first_name": "Bernardine",
+    "last_name": "Andrei",
+    "gender": "Female",
+    "date_of_birth": "8/29/1991",
+    "address": "602 Bartelt Parkway",
+    "phone": "823-266-2598",
+    "email": "bandrei8@ebay.com",
+    "cards": [
+      "6020-7804-3109-1366",
+      "6020-7804-3109-1367"
+    ],
+    "discounts": [
+      {
+        "code": "Green",
+        "description": "Green discount program"
+      },
+      {
+        "code": "Green",
+        "description": "Yellow discount program"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "first_name": "Avis",
+    "last_name": "Van den Dael",
+    "gender": "Female",
+    "date_of_birth": "5/12/1941",
+    "address": "15473 Kensington Pass",
+    "phone": "685-214-6496",
+    "email": "avandendael9@bbb.org",
+    "cards": [
+      "6927-2986-9777-5089",
+      "6927-2986-9777-5090",
+      "6927-2986-9777-5091"
+    ],
+    "discounts": [
+      {
+        "code": "Red",
+        "description": "Red discount program"
+      },
+      {
+        "code": "Green",
+        "description": "Yellow discount program"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "first_name": "Ikey",
+    "last_name": "Jardine",
+    "gender": "Male",
+    "date_of_birth": "12/22/1950",
+    "address": "741 Tennessee Avenue",
+    "phone": "389-278-9392",
+    "email": "ijardinea@baidu.com",
+    "cards": "9015-5346-2022-0930",
+    "discounts": {
+      "code": "Green",
+      "description": "Green discount program"
+    }
+  },
+  {
+    "id": 12,
+    "first_name": "Early",
+    "last_name": "Yearns",
+    "gender": "Male",
+    "date_of_birth": "7/27/1974",
+    "address": "28691 Straubel Junction",
+    "phone": "972-706-9901",
+    "email": "eyearnsb@scribd.com",
+    "cards": [
+      "4181-8964-8013-0053",
+      "4181-8964-8013-0054"
+    ],
+    "discounts": [
+      {
+        "code": "Red",
+        "description": "Red discount program"
+      },
+      {
+        "code": "Green",
+        "description": "Green discount program"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "first_name": "Ninon",
+    "last_name": "Treat",
+    "gender": "Female",
+    "date_of_birth": "12/23/1990",
+    "address": "6032 Transport Lane",
+    "phone": "362-950-1635",
+    "email": "ntreatc@ibm.com",
+    "cards": "6537-3156-0568-4743",
+    "discounts": {
+      "code": "Blue",
+      "description": "Blue discount program"
+    }
+  },
+  {
+    "id": 14,
+    "first_name": "Lenci",
+    "last_name": "Kiely",
+    "gender": "Male",
+    "date_of_birth": "11/26/1988",
+    "address": "253 Forest Run Street",
+    "phone": "742-384-0342",
+    "email": "lkielyd@amazon.co.jp",
+    "cards": "3561-7674-4977-5140",
+    "discounts": {
+      "code": "Blue",
+      "description": "Blue discount program"
+    }
+  },
+  {
+    "id": 15,
+    "first_name": "Bonni",
+    "last_name": "Curm",
+    "gender": "Female",
+    "date_of_birth": "8/15/1963",
+    "address": "9 Swallow Pass",
+    "phone": "248-751-5713",
+    "email": "bcurme@hatena.ne.jp",
+    "cards": [
+      "6585-6964-8994-2995",
+      "6585-6964-8994-2996",
+      "6585-6964-8994-2997"
+    ],
+    "discounts": [
+      {
+        "code": "Red",
+        "description": "Red discount program"
+      },
+      {
+        "code": "Blue",
+        "description": "Blue discount program"
+      },
+      {
+        "code": "Green",
+        "description": "Yellow discount program"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "first_name": "Stephan",
+    "last_name": "Stocks",
+    "gender": "Male",
+    "date_of_birth": "1/5/1969",
+    "address": "77668 Old Shore Street",
+    "phone": "221-309-6231",
+    "email": "sstocksf@unblog.fr",
+    "cards": "6199-3698-8031-4228",
+    "discounts": {
+      "code": "Red",
+      "description": "Red discount program"
+    }
+  },
+  {
+    "id": 17,
+    "first_name": "Imogene",
+    "last_name": "Westbrook",
+    "gender": "Female",
+    "date_of_birth": "6/12/1953",
+    "address": "72939 Aberg Place",
+    "phone": "628-999-4956",
+    "email": "iwestbrookg@nydailynews.com",
+    "cards": "3086-8052-6696-7312",
+    "discounts": {
+      "code": "Green",
+      "description": "Green discount program"
+    }
+  },
+  {
+    "id": 18,
+    "first_name": "Oliviero",
+    "last_name": "Durrington",
+    "gender": "Male",
+    "date_of_birth": "12/24/1937",
+    "address": "95 Toban Avenue",
+    "phone": "677-320-8951",
+    "email": "odurringtonh@hc360.com",
+    "cards": [
+      "3557-3736-3406-3688",
+      "3557-3736-3406-3689"
+    ],
+    "discounts": {
+      "code": "Green",
+      "description": "Yellow discount program"
+    }
+  },
+  {
+    "id": 19,
+    "first_name": "Duky",
+    "last_name": "Vittori",
+    "gender": "Male",
+    "date_of_birth": "9/2/1932",
+    "address": "26171 Sycamore Park",
+    "phone": "379-798-8372",
+    "email": "dvittorii@desdev.cn",
+    "cards": "1157-6401-5398-7948",
+    "discounts": {
+      "code": "Red",
+      "description": "Red discount program"
+    }
+  },
+  {
+    "id": 20,
+    "first_name": "Cooper",
+    "last_name": "Neal",
+    "gender": "Male",
+    "date_of_birth": "4/12/1936",
+    "address": "6 Cardinal Avenue",
+    "phone": "395-564-1668",
+    "email": "cnealj@slideshare.net",
+    "cards": "5417-4705-0587-8530",
+    "discounts": {
+      "code": "Red",
+      "description": "Red discount program"
+    }
+  }
+]
